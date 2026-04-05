@@ -41,12 +41,11 @@
       ],
       "sections": {
         "customSections": [
-          "Ground",
-          "Space",
-          "Leader",
-          "Base",
-          "Mana",
-          "Others"
+          "Batalha",
+          "Reinos",
+          "Abismo",
+          "Vazio",
+          "Regras"
         ],
         "layout": {
           "direction": "row",
