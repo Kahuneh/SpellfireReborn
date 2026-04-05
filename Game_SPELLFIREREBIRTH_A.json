@@ -19,8 +19,9 @@
     "Padrão": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "7",
-        "drawNewHand": false
+        "startingHandSize": "6",
+        "drawNewHand": false,
+        "triggeredByButton": true
       },
       "newTurn": {
         "drawOnStart": false,
@@ -264,20 +265,11 @@
             "showHiddenCardInHistory": false
           },
           "Vazio": {
-            "title": "Vazio",
-            "isHidden": "no",
+            "title": "Extra-deck-vazio",
+            "isHidden": "false",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "alignment": "DECK",
+            "displayedTitle": "Extra deck vazio",
           },
           "Campo": {
             "title": "Campo",
