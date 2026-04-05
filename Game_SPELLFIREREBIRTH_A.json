@@ -37,19 +37,20 @@
         }
       ],
       "countersStartingValues": [
-        "2"
+        "0"
       ],
       "sections": {
         "customSections": [
           "Batalha",
           "Reinos",
           "Abismo",
+          "Campo",
           "Vazio",
           "Regras"
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "column",
@@ -61,7 +62,8 @@
                   "content": [
                     {
                       "section": "Batalha",
-                      "style": false
+                      "style": false,
+                      "key" : "___Displayed Name For My Group"
                     },
                     {
                       "section": "Regras",
@@ -70,7 +72,7 @@
                       }
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
@@ -127,10 +129,10 @@
                       "isSymetricalForOpponents": false
                     }
                   ],
-                  "isSymetricalForOpponents": true
+                  "isSymetricalForOpponents": false
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -216,13 +218,13 @@
           "Reinos": {
             "title": "Reinos",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
             "isGroupForbidden": false,
@@ -238,7 +240,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -280,7 +282,7 @@
           "Campo": {
             "title": "Campo",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
