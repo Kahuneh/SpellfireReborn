@@ -48,7 +48,7 @@
           "Vazio",
           "Regras"
         ],
-        "layout": {
+       "layout": {
           "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
@@ -62,8 +62,7 @@
                   "content": [
                     {
                       "section": "Batalha",
-                      "style": false,
-                      "key" : "___Displayed Name For My Group"
+                      "style": false
                     },
                     {
                       "section": "Regras",
@@ -83,47 +82,49 @@
                       "style": false,
                       "content": [
                         {
+                          "section": "Campo",
+                          "style": false
+                        }
+                      ],
+                      "isSymetricalForOpponents": false
+                    },
+                    {
+                      "direction": "column",
+                      "style": false,
+                      "content": [
+                        {
+                          "section": "Reinos-linha-1",
+                          "style": false
+                        },
+                        {
+                          "section": "Reinos-linha-2",
+                          "style": false
+                        },
+                        {
+                          "section": "Reinos-linha-3",
+                          "style": false
+                        }
+                      ],
+                      "isSymetricalForOpponents": false
+                    },
+                    {
+                      "direction": "column",
+                      "style": false,
+                      "content": [
+                        {
                           "direction": "row",
-                          "style": {
-                            "width": "44vh"
-                          },
+                          "style": false,
                           "content": [
                             {
-                              "section": "Vazio",
-                              "style": {
-                                "width": "22vh"
-                              }
+                              "section": "Abismo",
+                              "style": false
                             },
                             {
-                              "section": "Abismo",
-                              "style": {
-                                "width": "22vh"
-                              }
+                              "section": "Vazio",
+                              "style": false
                             }
                           ],
                           "isSymetricalForOpponents": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
-                    },
-                    {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Reinos",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
-                    },
-                    {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Campo",
-                          "style": false
                         }
                       ],
                       "isSymetricalForOpponents": false
