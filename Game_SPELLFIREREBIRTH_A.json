@@ -20,8 +20,7 @@
       "mulligan": {
         "info": "",
         "startingHandSize": "6",
-        "drawNewHand": false,
-        "triggeredByButton": true
+        "drawNewHand": false
       },
       "newTurn": {
         "drawOnStart": false,
@@ -265,7 +264,7 @@
             "showHiddenCardInHistory": false
           },
           "Vazio": {
-            "title": "Extra-deck-vazio",
+            "title": "Vazio",
             "isHidden": "false",
             "height": "SMALL",
             "alignment": "DECK",
