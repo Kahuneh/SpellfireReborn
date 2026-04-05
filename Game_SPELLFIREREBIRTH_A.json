@@ -42,7 +42,7 @@
       "sections": {
         "customSections": [
           "Batalha",
-          "Regras",
+          "Regra",
           "Abismo",
           "Campo",
           "Vazio",
@@ -59,77 +59,54 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Batalha",
-                      "style": false
-                    },
-                    {
-                      "section": "Regras",
-                      "style": {
-                        "width": "14vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "Batalha",
+                  "style": false
+                },
+                {
+                  "section": "Campo",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Reinos-linha-1",
+                  "style": false
+                },
+                {
+                  "section": "Reinos-linha-2",
+                  "style": false
+                },
+                {
+                  "section": "Reinos-linha-3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Regra",
+                  "style": false
                 },
                 {
                   "direction": "row",
                   "style": false,
                   "content": [
                     {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Campo",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
+                      "section": "Abismo",
+                      "style": false
                     },
                     {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Reinos-linha-1",
-                          "style": false
-                        },
-                        {
-                          "section": "Reinos-linha-2",
-                          "style": false
-                        },
-                        {
-                          "section": "Reinos-linha-3",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
-                    },
-                    {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "direction": "row",
-                          "style": false,
-                          "content": [
-                            {
-                              "section": "Abismo",
-                              "style": false
-                            },
-                            {
-                              "section": "Vazio",
-                              "style": false
-                            }
-                          ],
-                          "isSymetricalForOpponents": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
+                      "section": "Vazio",
+                      "style": false
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -147,7 +124,7 @@
           "EVENTO": "Stack",
           "SUP_CLERIGO": "Stack",
           "SUP_MAGO": "Stack",
-          "FORTALEZA": "Reinos",
+          "FORTALEZA": "Reinos-linha-1",
           "SUP_LADRAO": "Stack",
           "SUP_SANGUE": "Stack",
           "HEROI": "Campo",
@@ -160,8 +137,7 @@
           "REGENTE": "Campo",
           "REGRA": "Regras",
           "SUP_TEC": "Stack",
-          "REINO": "Reinos-linha-1",
-          "FORTALEZA": "Reinos-linha-1"
+          "REINO": "Reinos-linha-1"
         },
         "autoPlayFromStack": {
           "ALIADO": "Batalha",
@@ -170,7 +146,7 @@
           "EVENTO": "Stack",
           "SUP_CLERIGO": "Stack",
           "SUP_MAGO": "Stack",
-          "FORTALEZA": "Reinos",
+          "FORTALEZA": "Reinos-linha-1",
           "SUP_LADRAO": "Stack",
           "SUP_SANGUE": "Stack",
           "HEROI": "Campo",
@@ -183,8 +159,7 @@
           "REGENTE": "Campo",
           "REGRA": "Regras",
           "SUP_TEC": "Stack",
-          "REINO": "Reinos-linha-1",
-          "FORTALEZA": "Reinos-linha-1"
+          "REINO": "Reinos-linha-1"
         },
         "sectionsDict": {
           "Stack": {
@@ -212,24 +187,8 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Batalha",
             "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Regras": {
-            "title": "Regras",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
@@ -240,33 +199,15 @@
             "title": "Abismo",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "alignment": "DECK",
+            "displayedTitle": "Abismo"
           },
           "Vazio": {
             "title": "Vazio",
             "isHidden": "false",
             "height": "SMALL",
             "alignment": "DECK",
-            "displayedTitle": "Extra deck vazio",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "Vazio"
           },
           "Campo": {
             "title": "Campo",
@@ -276,7 +217,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Campo",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -292,7 +233,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Reinos-linha-1",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
@@ -308,7 +249,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Reinos-linha-2",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
@@ -324,10 +265,26 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Reinos-linha-3",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Regra": {
+            "title": "Regra",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Regra",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
