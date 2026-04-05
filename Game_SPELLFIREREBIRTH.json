@@ -1,6 +1,6 @@
 {
   "name": "SPELLFIREREBIRTH",
-  "menuBackgroundImage": "https://www.dropbox.com/scl/fi/khvv8o8hxhr47ct6iak1j/spellfire_gameimg.png?rlkey=bm0udz7p5jomjltjfaz57roek&st=0jg3w9d3&dl=1",
+  "menuBackgroundImage": "https://kahuneh.github.io/SpellfireReborn/spellfire_gameimg.png",
   "deckBuilding": {
     "mainFilters": [
       "world",
@@ -31,7 +31,7 @@
       "tokens": [
         {
           "name": "Ataque",
-          "image": "https://www.dropbox.com/scl/fi/gv5b86i7vj1wr08lc2p5k/spellfire_token.png?rlkey=8jb2ni8jg6xphd7wynwqf8o5a&st=10omge4f&dl=1",
+          "image": "https://kahuneh.github.io/SpellfireReborn/spellfire_token.png",
           "isUnique": true,
           "leavesAtEndOfTurn": true
         }
@@ -302,13 +302,14 @@
   },
   "defaultRessources": {
     "backgrounds": [
-      "https://i.imgur.com/KmXSVQp.jpeg"
+      "https://kahuneh.github.io/SpellfireReborn/spellfire_gameimg.png",
+      "https://kahuneh.github.io/SpellfireReborn/spellfire_gameimg_b.png"
     ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cards": {
-    "dataUrl": "https://www.dropbox.com/scl/fi/vg7f6drkacxx3kht2y1m6/Game_SPELLFIREREBIRTH_Cards.json?rlkey=5y52aly230lzjjdrxc8cu8987&st=dww4p9uq&dl=1",
-    "cardBack": "https://www.dropbox.com/scl/fi/n60fjjhw7preccx5f3ibd/cardback.jpeg?rlkey=la9dxg8m075djuodlv4dhl76z&st=dwiqa0dl&dl=1"
+    "dataUrl": "https://kahuneh.github.io/SpellfireReborn/Game_SPELLFIREREBIRTH_Cards.json",
+    "cardBack": "https://kahuneh.github.io/SpellfireReborn/cardback.jpeg"
   }
 }
