@@ -194,7 +194,7 @@
             "displayedTitle": "Reinos-linha-1",
             "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
@@ -210,7 +210,7 @@
             "displayedTitle": "Reinos-linha-2",
             "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
@@ -226,7 +226,7 @@
             "displayedTitle": "Reinos-linha-3",
             "noQuickActions": true,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
