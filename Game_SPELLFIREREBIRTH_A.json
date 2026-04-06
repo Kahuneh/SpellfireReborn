@@ -28,16 +28,16 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": "4"
       },
-      "tokens": [
-        {
-          "name": "Ataque",
-          "image": "https://kahuneh.github.io/SpellfireReborn/spellfire_token.png",
-          "isUnique": true,
-          "leavesAtEndOfTurn": true
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
         "0"
+      ],
+      "draggableTokens": [
+        {
+            "id": "ataque",
+            "name": "Ataque",
+            "image": "https://kahuneh.github.io/SpellfireReborn/spellfire_token.png"
+        }
       ],
       "sections": {
         "customSections": [
@@ -117,50 +117,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {
-          "ALIADO": "Batalha",
-          "ARTEFATO": "Campo",
-          "CLERIGO": "Campo",
-          "EVENTO": "Stack",
-          "SUP_CLERIGO": "Stack",
-          "SUP_MAGO": "Stack",
-          "FORTALEZA": "Reinos-linha-1",
-          "SUP_LADRAO": "Stack",
-          "SUP_SANGUE": "Stack",
-          "HEROI": "Campo",
-          "ITEM": "Campo",
-          "LADRAO": "Campo",
-          "MAGO": "Campo",
-          "MONSTRO": "Campo",
-          "SUP_PSIONICO": "Stack",
-          "PSIONICO": "Campo",
-          "REGENTE": "Campo",
-          "REGRA": "Regras",
-          "SUP_TEC": "Stack",
-          "REINO": "Reinos-linha-1"
-        },
-        "autoPlayFromStack": {
-          "ALIADO": "Batalha",
-          "ARTEFATO": "Campo",
-          "CLERIGO": "Campo",
-          "EVENTO": "Stack",
-          "SUP_CLERIGO": "Stack",
-          "SUP_MAGO": "Stack",
-          "FORTALEZA": "Reinos-linha-1",
-          "SUP_LADRAO": "Stack",
-          "SUP_SANGUE": "Stack",
-          "HEROI": "Campo",
-          "ITEM": "Campo",
-          "LADRAO": "Campo",
-          "MAGO": "Campo",
-          "MONSTRO": "Campo",
-          "SUP_PSIONICO": "Stack",
-          "PSIONICO": "Campo",
-          "REGENTE": "Campo",
-          "REGRA": "Regras",
-          "SUP_TEC": "Stack",
-          "REINO": "Reinos-linha-1"
-        },
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Stack": {
             "isDefaultSection": true,
