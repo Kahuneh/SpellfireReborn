@@ -166,7 +166,7 @@
             "title": "Vazio",
             "isHidden": "false",
             "height": "SMALL",
-            "alignment": "DECK",
+            "alignment": "DISCARD",
             "displayedTitle": "Vazio"
           },
           "Campo": {
