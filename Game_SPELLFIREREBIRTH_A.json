@@ -102,7 +102,7 @@
                   "content": [
                     {
                       "section": "Abismo",
-                      "style": { "marginRight": "auto" }
+                      "style": {"marginLeft":"auto","width":"40%"}
                     },
                     {
                       "section": "Vazio",
