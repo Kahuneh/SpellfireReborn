@@ -94,7 +94,9 @@
               "content": [
                 {
                   "section": "Regra",
-                  "style": false
+                  "style": {
+                    "width": "10.2vh"
+                  }
                 },
                 {
                   "direction": "row",
