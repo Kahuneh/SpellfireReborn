@@ -75,15 +75,15 @@
               "content": [
                 {
                   "section": "Reinos-linha-1",
-                  "style": false
+                  "style": {"width":"22vh"}
                 },
                 {
                   "section": "Reinos-linha-2",
-                  "style": false
+                  "style": {"width":"44vh"}
                 },
                 {
                   "section": "Reinos-linha-3",
-                  "style": false
+                  "style": {"width":"66vh"}
                 }
               ],
               "isSymetricalForOpponents": false
@@ -94,7 +94,7 @@
               "content": [
                 {
                   "section": "Regra",
-                  "style": false
+                  "style": {"width":"22vh"}
                 },
                 {
                   "direction": "row",
@@ -102,7 +102,7 @@
                   "content": [
                     {
                       "section": "Abismo",
-                      "style": false
+                      "style": "{ marginRight: auto }"
                     },
                     {
                       "section": "Vazio",
