@@ -95,7 +95,12 @@
                 {
                   "section": "Regra",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "30vh",
+                    "height": "12vh",
+                    "scale": "0.68",
+                    "position": "absolute",
+                    "top": "0",
+                    "left": "50%"
                   }
                 },
                 {
