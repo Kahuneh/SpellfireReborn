@@ -95,7 +95,8 @@
                 {
                   "section": "Regra",
                   "style": {
-                    "width": "15vh"
+                    "marginRight":"auto",
+                    "width":"12vh"
                   }
                 },
                 {
