@@ -75,11 +75,11 @@
               "content": [
                 {
                   "section": "Reinos-linha-1",
-                  "style": {"width":"33%","margin":"33%"}
+                  "style": {"width":"33%"}
                 },
                 {
                   "section": "Reinos-linha-2",
-                  "style": {"width":"66%", "margin":"5vh"}
+                  "style": {"width":"66%"}
                 },
                 {
                   "section": "Reinos-linha-3",
