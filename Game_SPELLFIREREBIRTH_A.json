@@ -71,7 +71,7 @@
             },
             {
               "direction": "column",
-              "style": {"width":"25%"},
+              "style": {"width":"30%"},
               "content": [
                 {
                   "section": "Reinos-linha-1",
