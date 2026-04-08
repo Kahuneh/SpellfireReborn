@@ -123,8 +123,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "marginLeft":"auto",
-                    "marginRight":"auto"
+                    "justify-content":"center"
                   },
                   "content": [
                     {
@@ -139,8 +138,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "marginLeft":"auto",
-                    "marginRight":"auto"
+                    "justify-content":"center"
                   },
                   "content": [
                     {
@@ -161,8 +159,7 @@
                 {
                   "direction": "row",
                   "style": {
-                    "marginLeft":"auto",
-                    "marginRight":"auto"
+                    "justify-content":"center"
                   },
                   "content": [
                     {
