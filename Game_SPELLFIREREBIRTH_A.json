@@ -96,7 +96,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "50%"
+                "width": "55%"
               },
               "content": [
                 {
@@ -129,7 +129,7 @@
                     {
                       "section": "Reino-A",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     }
                   ],
@@ -144,13 +144,13 @@
                     {
                       "section": "Reino-B",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     },
                     {
                       "section": "Reino-C",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     }
                   ],
@@ -165,19 +165,19 @@
                     {
                       "section": "Reino-D",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     },
                     {
                       "section": "Reino-E",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     },
                     {
                       "section": "Reino-F",
                       "style": {
-                        "width": "16vh"
+                        "width": "20vh"
                       }
                     }
                   ],
@@ -199,7 +199,9 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "justify-content":"center"
+                  },
                   "content": [
                     {
                       "section": "Abismo",
