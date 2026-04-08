@@ -16,7 +16,7 @@
         "deckRuleset": "P75",
         "legalityCode": "P1"
       }
-    ]
+    ],
     "deckRulesets": {
         "P75": {
             "reversedLegality": true,
