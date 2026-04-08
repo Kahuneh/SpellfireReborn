@@ -108,6 +108,9 @@
                     {
                       "section": "Abismo",
                       "style": false
+                      "optional": {
+                        "key": "Displayed Name Abismo",
+                      }
                     },
                     {
                       "section": "Vazio",
