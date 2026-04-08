@@ -20,7 +20,7 @@
     "Padrão": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "7",
+        "startingHandSize": "6",
         "drawNewHand": true,
         "triggeredByButton": true
       },
