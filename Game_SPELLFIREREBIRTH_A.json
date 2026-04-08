@@ -115,6 +115,7 @@
                     {
                       "section": "Reino-C",
                       "style": {
+                        "marginLeft": "0vh",
                         "width": "12vh"
                       }
                     }
@@ -231,7 +232,7 @@
             "displayedTitle": "Abismo",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -247,7 +248,7 @@
             "displayedTitle": "Vazio",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -311,7 +312,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Reinos-linha-1",
+            "displayedTitle": "",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
@@ -327,7 +328,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Reinos-linha-2",
+            "displayedTitle": "",
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
