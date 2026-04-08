@@ -12,9 +12,43 @@
     "formats": [
       {
         "title": "Padrão",
-        "gameplay": "Padrão"
+        "gameplay": "Padrão",
+        "deckRuleset": "P75",
+        "legalityCode": "P1"
       }
     ]
+    "deckRulesets": {
+        "P75": {
+            "reversedLegality": true,
+            "general": {
+                "min": 75,
+                "max": 125,
+                "maxPerCard": 1
+            },
+            "categories": [
+                {
+                    "category": "CAMPEÃO",
+                    "min": 3,
+                    "max": 27
+                },
+                {
+                    "category": "EVENTO",
+                    "min": 0,
+                    "max": 13
+                },
+                {
+                    "category": "REGRA",
+                    "min": 0,
+                    "max": 4
+                },
+                {
+                    "category": "REINO",
+                    "min": 12,
+                    "max": 20
+                }
+            ]
+        }
+    }    
   },
   "gameplay": {
     "Padrão": {
