@@ -107,10 +107,7 @@
                   "content": [
                     {
                       "section": "Abismo",
-                      "style": false,
-                      "optional": {
-                        "key": "Displayed Name Abismo",
-                      }
+                      "style": false
                     },
                     {
                       "section": "Vazio",
