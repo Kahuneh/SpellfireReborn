@@ -122,12 +122,14 @@
               "content": [
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "marginLeft":"auto",
+                    "marginRight":"auto"
+                  },
                   "content": [
                     {
                       "section": "Reino-A",
                       "style": {
-                        "marginLeft": "12vh",
                         "width": "16vh"
                       }
                     }
@@ -136,12 +138,14 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "marginLeft":"auto",
+                    "marginRight":"auto"
+                  },
                   "content": [
                     {
                       "section": "Reino-B",
                       "style": {
-                        "marginLeft": "6vh",
                         "width": "16vh"
                       }
                     },
@@ -156,7 +160,10 @@
                 },
                 {
                   "direction": "row",
-                  "style": false,
+                  "style": {
+                    "marginLeft":"auto",
+                    "marginRight":"auto"
+                  },
                   "content": [
                     {
                       "section": "Reino-D",
