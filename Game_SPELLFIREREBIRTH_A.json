@@ -1,6 +1,7 @@
 {
   "name": "SPELLFIREREBIRTH",
   "menuBackgroundImage": "https://kahuneh.github.io/SpellfireReborn/spellfire_gameimg.png",
+  "cardRotation": "90",
   "deckBuilding": {
     "mainFilters": [
       "world",
