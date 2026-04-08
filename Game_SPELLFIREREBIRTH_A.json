@@ -20,8 +20,9 @@
     "Padrão": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "0",
-        "drawNewHand": false
+        "startingHandSize": "7",
+        "drawNewHand": true,
+        "triggeredByButton": true
       },
       "newTurn": {
         "drawOnStart": false,
