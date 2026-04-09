@@ -1,0 +1,674 @@
+[
+{
+  "title": "Magia",
+  "id": "30f29bff-fb40-490e-b011-c07f739eb41d",
+  "cardCount": 75,
+  "createdAt": "2026-04-09T04:58:24.173Z",
+  "lastModifiedAt": "2026-04-09T05:16:03.344Z",
+  "game": "SPELLFIREREBIRTH",
+  "format": [
+    "Padrão"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "CAMPEÃO",
+      "REINO",
+      "FORTALEZA",
+      "ARTEFATO",
+      "EVENTO",
+      "SUPORTE",
+      "ITEM",
+      "REGRA"
+    ],
+    "CAMPEÃO": [
+      {
+        "count": 1,
+        "id": "REB_058"
+      },
+      {
+        "count": 1,
+        "id": "REB_065"
+      },
+      {
+        "count": 1,
+        "id": "REB_067"
+      },
+      {
+        "count": 1,
+        "id": "REB_055"
+      },
+      {
+        "count": 1,
+        "id": "REB_063"
+      },
+      {
+        "count": 1,
+        "id": "REB_071"
+      },
+      {
+        "count": 1,
+        "id": "REB_224"
+      },
+      {
+        "count": 1,
+        "id": "REB_228"
+      },
+      {
+        "count": 1,
+        "id": "REB_234"
+      },
+      {
+        "count": 1,
+        "id": "REB_222"
+      },
+      {
+        "count": 1,
+        "id": "REB_290"
+      },
+      {
+        "count": 1,
+        "id": "REB_295"
+      },
+      {
+        "count": 1,
+        "id": "REB_307"
+      },
+      {
+        "count": 1,
+        "id": "REB_057"
+      },
+      {
+        "count": 1,
+        "id": "REB_064"
+      },
+      {
+        "count": 1,
+        "id": "REB_215"
+      },
+      {
+        "count": 1,
+        "id": "REB_227"
+      },
+      {
+        "count": 1,
+        "id": "REB_225"
+      },
+      {
+        "count": 1,
+        "id": "REB_284"
+      },
+      {
+        "count": 1,
+        "id": "REB_317"
+      }
+    ],
+    "REINO": [
+      {
+        "count": 1,
+        "id": "REB_H028"
+      },
+      {
+        "count": 1,
+        "id": "REB_H043"
+      },
+      {
+        "count": 1,
+        "id": "REB_H047"
+      },
+      {
+        "count": 1,
+        "id": "REB_H048"
+      },
+      {
+        "count": 1,
+        "id": "REB_H052"
+      },
+      {
+        "count": 1,
+        "id": "REB_H054"
+      },
+      {
+        "count": 1,
+        "id": "REB_H056"
+      },
+      {
+        "count": 1,
+        "id": "REB_H058"
+      },
+      {
+        "count": 1,
+        "id": "REB_H106"
+      },
+      {
+        "count": 1,
+        "id": "REB_H113"
+      },
+      {
+        "count": 1,
+        "id": "REB_H116"
+      },
+      {
+        "count": 1,
+        "id": "REB_H119"
+      },
+      {
+        "count": 1,
+        "id": "REB_H117"
+      },
+      {
+        "count": 1,
+        "id": "REB_H039"
+      },
+      {
+        "count": 1,
+        "id": "REB_H001"
+      }
+    ],
+    "FORTALEZA": [
+      {
+        "count": 1,
+        "id": "REB_168"
+      },
+      {
+        "count": 1,
+        "id": "REB_155"
+      },
+      {
+        "count": 1,
+        "id": "REB_159"
+      }
+    ],
+    "ARTEFATO": [
+      {
+        "count": 1,
+        "id": "REB_035"
+      },
+      {
+        "count": 1,
+        "id": "REB_043"
+      }
+    ],
+    "EVENTO": [
+      {
+        "count": 1,
+        "id": "REB_076"
+      },
+      {
+        "count": 1,
+        "id": "REB_078"
+      },
+      {
+        "count": 1,
+        "id": "REB_079"
+      },
+      {
+        "count": 1,
+        "id": "REB_081"
+      },
+      {
+        "count": 1,
+        "id": "REB_086"
+      },
+      {
+        "count": 1,
+        "id": "REB_090"
+      },
+      {
+        "count": 1,
+        "id": "REB_089"
+      },
+      {
+        "count": 1,
+        "id": "REB_098"
+      },
+      {
+        "count": 1,
+        "id": "REB_101"
+      },
+      {
+        "count": 1,
+        "id": "REB_102"
+      },
+      {
+        "count": 1,
+        "id": "REB_105"
+      },
+      {
+        "count": 1,
+        "id": "REB_100"
+      },
+      {
+        "count": 1,
+        "id": "REB_106"
+      }
+    ],
+    "SUPORTE": [
+      {
+        "count": 1,
+        "id": "REB_004"
+      },
+      {
+        "count": 1,
+        "id": "REB_012"
+      },
+      {
+        "count": 1,
+        "id": "REB_015"
+      },
+      {
+        "count": 1,
+        "id": "REB_115"
+      },
+      {
+        "count": 1,
+        "id": "REB_117"
+      },
+      {
+        "count": 1,
+        "id": "REB_120"
+      },
+      {
+        "count": 1,
+        "id": "REB_121"
+      },
+      {
+        "count": 1,
+        "id": "REB_123"
+      },
+      {
+        "count": 1,
+        "id": "REB_127"
+      },
+      {
+        "count": 1,
+        "id": "REB_128"
+      },
+      {
+        "count": 1,
+        "id": "REB_131"
+      },
+      {
+        "count": 1,
+        "id": "REB_134"
+      },
+      {
+        "count": 1,
+        "id": "REB_136"
+      },
+      {
+        "count": 1,
+        "id": "REB_139"
+      },
+      {
+        "count": 1,
+        "id": "REB_142"
+      },
+      {
+        "count": 1,
+        "id": "REB_148"
+      },
+      {
+        "count": 1,
+        "id": "REB_149"
+      },
+      {
+        "count": 1,
+        "id": "REB_150"
+      }
+    ],
+    "ITEM": [
+      {
+        "count": 1,
+        "id": "REB_250"
+      },
+      {
+        "count": 1,
+        "id": "REB_249"
+      },
+      {
+        "count": 1,
+        "id": "REB_261"
+      }
+    ],
+    "REGRA": [
+      {
+        "count": 1,
+        "id": "REB_389"
+      }
+    ]
+  }
+},
+{
+  "title": "Psionico",
+  "id": "8d6e4107-66dd-4e2d-aab3-d6063171d60c",
+  "cardCount": 75,
+  "createdAt": "2026-04-07T22:39:50.669Z",
+  "lastModifiedAt": "2026-04-09T03:44:16.588Z",
+  "game": "SPELLFIREREBIRTH",
+  "format": [
+    "Padrão"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "CAMPEÃO",
+      "REGRA",
+      "EVENTO",
+      "REINO",
+      "SUPORTE",
+      "ARTEFATO"
+    ],
+    "CAMPEÃO": [
+      {
+        "count": 1,
+        "id": "REB_346"
+      },
+      {
+        "count": 1,
+        "id": "REB_347"
+      },
+      {
+        "count": 1,
+        "id": "REB_348"
+      },
+      {
+        "count": 1,
+        "id": "REB_349"
+      },
+      {
+        "count": 1,
+        "id": "REB_350"
+      },
+      {
+        "count": 1,
+        "id": "REB_351"
+      },
+      {
+        "count": 1,
+        "id": "REB_352"
+      },
+      {
+        "count": 1,
+        "id": "REB_353"
+      },
+      {
+        "count": 1,
+        "id": "REB_354"
+      },
+      {
+        "count": 1,
+        "id": "REB_355"
+      },
+      {
+        "count": 1,
+        "id": "REB_356"
+      },
+      {
+        "count": 1,
+        "id": "REB_357"
+      },
+      {
+        "count": 1,
+        "id": "REB_358"
+      },
+      {
+        "count": 1,
+        "id": "REB_359"
+      },
+      {
+        "count": 1,
+        "id": "REB_360"
+      },
+      {
+        "count": 1,
+        "id": "REB_361"
+      },
+      {
+        "count": 1,
+        "id": "REB_363"
+      },
+      {
+        "count": 1,
+        "id": "REB_224"
+      },
+      {
+        "count": 1,
+        "id": "REB_274"
+      },
+      {
+        "count": 1,
+        "id": "REB_055"
+      },
+      {
+        "count": 1,
+        "id": "REB_317"
+      }
+    ],
+    "REGRA": [
+      {
+        "count": 1,
+        "id": "REB_386"
+      },
+      {
+        "count": 1,
+        "id": "REB_399"
+      }
+    ],
+    "EVENTO": [
+      {
+        "count": 1,
+        "id": "REB_076"
+      },
+      {
+        "count": 1,
+        "id": "REB_078"
+      },
+      {
+        "count": 1,
+        "id": "REB_079"
+      },
+      {
+        "count": 1,
+        "id": "REB_086"
+      },
+      {
+        "count": 1,
+        "id": "REB_090"
+      },
+      {
+        "count": 1,
+        "id": "REB_097"
+      },
+      {
+        "count": 1,
+        "id": "REB_098"
+      },
+      {
+        "count": 1,
+        "id": "REB_101"
+      },
+      {
+        "count": 1,
+        "id": "REB_102"
+      },
+      {
+        "count": 1,
+        "id": "REB_100"
+      },
+      {
+        "count": 1,
+        "id": "REB_094"
+      },
+      {
+        "count": 1,
+        "id": "REB_084"
+      },
+      {
+        "count": 1,
+        "id": "REB_082"
+      }
+    ],
+    "REINO": [
+      {
+        "count": 1,
+        "id": "REB_H001"
+      },
+      {
+        "count": 1,
+        "id": "REB_H010"
+      },
+      {
+        "count": 1,
+        "id": "REB_H016"
+      },
+      {
+        "count": 1,
+        "id": "REB_H021"
+      },
+      {
+        "count": 1,
+        "id": "REB_H026"
+      },
+      {
+        "count": 1,
+        "id": "REB_H029"
+      },
+      {
+        "count": 1,
+        "id": "REB_H039"
+      },
+      {
+        "count": 1,
+        "id": "REB_H052"
+      },
+      {
+        "count": 1,
+        "id": "REB_H064"
+      },
+      {
+        "count": 1,
+        "id": "REB_H070"
+      },
+      {
+        "count": 1,
+        "id": "REB_H072"
+      },
+      {
+        "count": 1,
+        "id": "REB_H076"
+      },
+      {
+        "count": 1,
+        "id": "REB_H088"
+      },
+      {
+        "count": 1,
+        "id": "REB_H030"
+      },
+      {
+        "count": 1,
+        "id": "REB_H102"
+      }
+    ],
+    "SUPORTE": [
+      {
+        "count": 1,
+        "id": "REB_325"
+      },
+      {
+        "count": 1,
+        "id": "REB_326"
+      },
+      {
+        "count": 1,
+        "id": "REB_327"
+      },
+      {
+        "count": 1,
+        "id": "REB_328"
+      },
+      {
+        "count": 1,
+        "id": "REB_329"
+      },
+      {
+        "count": 1,
+        "id": "REB_330"
+      },
+      {
+        "count": 1,
+        "id": "REB_332"
+      },
+      {
+        "count": 1,
+        "id": "REB_333"
+      },
+      {
+        "count": 1,
+        "id": "REB_334"
+      },
+      {
+        "count": 1,
+        "id": "REB_335"
+      },
+      {
+        "count": 1,
+        "id": "REB_338"
+      },
+      {
+        "count": 1,
+        "id": "REB_339"
+      },
+      {
+        "count": 1,
+        "id": "REB_341"
+      },
+      {
+        "count": 1,
+        "id": "REB_342"
+      },
+      {
+        "count": 1,
+        "id": "REB_343"
+      },
+      {
+        "count": 1,
+        "id": "REB_413"
+      },
+      {
+        "count": 1,
+        "id": "REB_004"
+      },
+      {
+        "count": 1,
+        "id": "REB_011"
+      },
+      {
+        "count": 1,
+        "id": "REB_015"
+      },
+      {
+        "count": 1,
+        "id": "REB_023"
+      },
+      {
+        "count": 1,
+        "id": "REB_025"
+      },
+      {
+        "count": 1,
+        "id": "REB_029"
+      },
+      {
+        "count": 1,
+        "id": "REB_020"
+      }
+    ],
+    "ARTEFATO": [
+      {
+        "count": 1,
+        "id": "REB_050"
+      }
+    ]
+  }
+}
+]
